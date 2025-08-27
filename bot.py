@@ -11,7 +11,7 @@ from telegram.ext import (
 )
 
 # Замените 'YOUR_TOKEN' на токен, который вам выдал BotFather
-TOKEN = "8239256102:AAG9aLPJwR4zDG-RWt0XY-obFm1HcpPdqoU"
+TOKEN = ""
 
 # Определяем состояния для ConversationHandler
 PURITY, PROFILE, WIDTH, HEIGHT, SIZE = range(5)
